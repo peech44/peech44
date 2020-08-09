@@ -16,6 +16,8 @@
 
 - 💻 &nbsp; Java | C++ 
 
+- 📱 &nbsp; Android studio (Java)
+
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap 
 
 - 🛢 &nbsp; MySQL | NoSQL (firebase realtime database)
